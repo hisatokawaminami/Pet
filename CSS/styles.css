@@ -10,7 +10,7 @@ h2 {
 }
 
 p {
-  color: #fff;
+  color: pink;
 
 }
 
@@ -35,4 +35,12 @@ img {
 
 #hjdsgk {
   display: none;
+}
+
+.dark-background {
+  background-color: black;
+}
+
+.light-background {
+  background-color: white;
 }
